@@ -24,3 +24,6 @@
 - iii. Optimize the algorithm
 - iv. Fit the model on the training data (make the model learn)
 - v. Test the model.
+
+
+#### NOTE:- Model has been tested on Mac M1
