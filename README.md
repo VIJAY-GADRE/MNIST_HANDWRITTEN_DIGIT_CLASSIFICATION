@@ -26,4 +26,4 @@
 - v. Test the model.
 
 
-#### NOTE:- Model has been tested on Mac M1
+##### NOTE:- The Model has been tested on Mac M1
